@@ -640,12 +640,12 @@
     <distributionManagement>
 
         <snapshotRepository>
-            <id>mie_snapshots</id>
-            <url>http://116.85.33.2:8081/repository/mie_snapshots/</url>
+            <id>Snapshots</id>
+            <url>http://116.85.33.2:8081/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
         <repository>
-            <id>mie_release</id>
-            <url>http://116.85.33.2:8081/repository/mie_release/</url>
+            <id>Release</id>
+            <url>http://116.85.33.2:8081/nexus/content/repositories/releases/</url>
         </repository>
     </distributionManagement>
 
