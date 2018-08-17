@@ -651,6 +651,7 @@
 
     <!--<modules>-->
         <!--<module>mie_base_core</module>-->
+        <!--<module>mie_base_utils</module>-->
     <!--</modules>-->
 
 </project>
